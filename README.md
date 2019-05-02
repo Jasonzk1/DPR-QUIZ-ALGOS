@@ -7,3 +7,6 @@ Algorithm Quiz 1
   <li>Submit a binary search example by adding a file to this project after forking it. Be sure to explain how the example functions using comments or in this README.</li>
   <li>Is a selection sort or a bubble sort faster?</li>
  </ol>
+
+
+<h1> Answer Question 1: The program checks to see if the word sequence or phrase can be read the same way in each direction</h1>
