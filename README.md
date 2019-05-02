@@ -9,4 +9,4 @@ Algorithm Quiz 1
  </ol>
 
 
-<h1> Answer Question 1: The program checks to see if the word sequence or phrase can be read the same way in each direction</h1>
+<h4> Answer Question 1:</h4> <p> The program checks to see if the word sequence or phrase can be read the same way in each direction </p>
