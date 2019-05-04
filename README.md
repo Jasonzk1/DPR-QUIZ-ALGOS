@@ -10,3 +10,4 @@ Algorithm Quiz 1
 
 
 <h4> Answer Question 1:</h4> <p> The program checks to see if the word sequence or phrase can be read the same way in each direction </p>
+<h4> Answer Question 3:</h4> <p> Selection sort almost always outperforms bubble sort and gnome sort </p>
